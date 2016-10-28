@@ -1,0 +1,21 @@
+/* Color de fondo */
+body {
+  background: #ffffff;
+}
+
+/* Formato del slider */
+.slider {
+  max-width: auto;    /* Tamaño (máximo) de ancho de las imágenes */
+  margin: auto;
+}
+
+.footer {
+  background: #454045;
+  color: white;
+  text-align: center;
+}
+
+#mapid { height: 180px; }
+
+
+
